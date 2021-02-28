@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hello World! 👋
 
+
+![Green's GitHub stats](https://github-readme-stats.vercel.app/api?username=greenrenge&count_private=true&show_icons=true&count_private=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greenrenge&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=greenrenge)
 <!--
 **Greenrenge/Greenrenge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
